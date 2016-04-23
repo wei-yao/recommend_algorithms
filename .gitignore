@@ -3,3 +3,5 @@
 __pycache__
 /Q.data
 /P.data
+/example.py
+/__init__.py
