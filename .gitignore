@@ -4,3 +4,10 @@ __pycache__
 /NativeBayes/email/spam/*.txt
 email
 digits
+*.txt
+*.dat
+__pycache__
+/Q.data
+/P.data
+/example.py
+/__init__.py
